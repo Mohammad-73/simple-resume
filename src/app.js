@@ -54,7 +54,7 @@ const infoList = [
     value: "Tehran, Iran",
   },
   {
-    title: "e-mail",
+    title: "E-mail",
     value: (
       <a href="mailto:m.khalili7310@gmail.com" style={{color:themeColor}}>
         m.khalili7310@gmail.com
